@@ -20,7 +20,3 @@ MEDIA_PATH=
 
 # app url
 REACT_APP_URL= http://100.112.0.26/
-
-
-
-mention all paths in env
