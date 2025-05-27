@@ -1,5 +1,0 @@
-[data_recon_user]
-host=localhost
-user=user_dataRecon_file
-dbname=db_dataRecon
-port=5432
